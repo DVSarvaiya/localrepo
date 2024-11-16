@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-	cout<<"dhruv sarvaiya";
+	cout<<"name - dhruv sarvaiya";
 	return 0;
 }
